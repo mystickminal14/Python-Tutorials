@@ -1,0 +1,32 @@
+#int
+a=1
+print(type(a))
+#float
+b=1.1
+print(type(b))
+#none
+c=None
+print(type(c))
+#boolean
+d=False
+print(type(d))
+#strint
+e='minal'
+print(type(e))
+#complex
+f=complex(2,2)
+print(type(f))
+
+#sequential datatype
+#lists
+list1=['minal',2]
+print(list1)
+#tuple
+tu=('parrot',2)
+print(tu)
+#dict
+dicr={
+    'one':'minal',
+    'age':20
+}
+print(dicr)
